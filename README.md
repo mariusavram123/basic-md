@@ -98,8 +98,8 @@ def add(num1, num2):
 <!-- Tables -->
 | Name     | Email      |
 |----------|------------|
-|marius    |mariusavr123|
-|emil      |emiloctavianavram|
+|marius    |doareu      |
+|emil      |doarel      |
 
 <!-- Task lists-->
 
