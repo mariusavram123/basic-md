@@ -79,9 +79,7 @@ no spaces
 <!-- Code Blocks -->
 
 ```bash
-sudo apt-add-repository ppa:gns3/ppa
-sudo apt update
-sudo apt install gns3-gui
+sudo systemctl restart networking
 ```
 
 ```javascript
